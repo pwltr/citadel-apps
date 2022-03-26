@@ -7,7 +7,7 @@ We'll do that based on the BlueWallet app as an example.
 Here's the current docker-compose.yml, this is what we're starting off with.
 
 ```yaml
-version: "3.7"
+version: "3.8"
 
 services:
   redis:
